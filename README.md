@@ -1,9 +1,10 @@
 ### Latihan Membuat UI KIT
-Step 1:
-1. Tonton video tutorial-nya dulu
+#### Step 1:
+Tonton video tutorial-nya dulu
 https://www.youtube.com/watch?v=QP_ZHijGGv0
 
-2. Buatlah kumpulan UI KIT di Flutter, dengan ketentuan:
+#### Step 2
+Buatlah kumpulan UI KIT di Flutter, dengan ketentuan:
 - Harus dalam bentuk "Reuseable Widget"
 - Harus menggunakan Prefix, prefix-nya bebas
 - Tentukan Nama-nya misalnya:
@@ -13,20 +14,24 @@ https://www.youtube.com/watch?v=QP_ZHijGGv0
 - Pastikan sudah sesuai requirements di bawah
 - Ingat! Tampilkan semua Widget-nya dalam 1 halaman saja.
 - Buatlah desain yang menarik, cari referensi desainnya di Google
+
+#### Step 3
 - Upload ke Github
+
+#### Step 4
 - Isi Formulir:
 https://tinyurl.com/latihan-ui-kit
 
-** TIPS **
+#### TIPS
 - Gunakan snippet "reuseable_"
 - Tonton video-nya sampai selesai
 
-** Deadline **
+#### DEADLINE
 - 5 May 2023
 
-** Hadiah **
+#### HADIAH
 - 1 Orang dengan UI KIT Terbaik mendapatkan IDR 200.000,-
-- Membership VIP Kelas Online /w DenyOcr (setara 490k).
+- Gratis Ikut Kelas Online /w DenyOcr
 
 Requirements:
 ```
