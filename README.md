@@ -1,16 +1,50 @@
-# form_tutorial
+### Latihan Membuat UI KIT
+Step 1:
+1. Tonton video tutorial-nya dulu
+https://www.youtube.com/watch?v=QP_ZHijGGv0
 
-A new Flutter project.
+2. Buatlah kumpulan UI KIT di Flutter, dengan ketentuan:
+- Harus dalam bentuk "Reuseable Widget"
+- Harus menggunakan Prefix, prefix-nya bebas
+- Tentukan Nama-nya misalnya:
+  "Anthony UI KIT"
+  "Anthony Express UI"
+  "Anthony Dev Kit"
+- Pastikan sudah sesuai requirements di bawah
+- Ingat! Tampilkan semua Widget-nya dalam 1 halaman saja.
+- Upload ke Github
+- Isi Formulir:
+https://tinyurl.com/latihan-ui-kit
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Requirements:
+```
+Button
+  Success Button
+  Danger Button
+  Warning Button
+  Info Button
+  Disabled Button
+  Primary Button (Optional)
+  Secondary Button (Optional)
 
-A few resources to get you started if this is your first Flutter project:
+Outline Button
+  Outline Success Button
+  Outline Danger Button
+  Outline Warning Button
+  Outline Info Button
+  Outline Primary Button
+  Outline Secondary Button
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Form
+  TextField
+  Textfield Numeric
+  Textfield Password
+  Textfield Multilines (TextArea|MemoField)
+  Dropdown
+  CheckField
+  RadioField
+  ImagePicker
+  Autocomplete (Optional)
+  DropdownSearch (Optional)
+```
