@@ -26,7 +26,7 @@ https://tinyurl.com/latihan-ui-kit
 
 ** Hadiah **
 - 1 Orang dengan UI KIT Terbaik mendapatkan IDR 200.000,-
-
+- Membership VIP Kelas Online /w DenyOcr (setara 490k).
 
 Requirements:
 ```
