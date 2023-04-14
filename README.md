@@ -27,7 +27,7 @@ https://tinyurl.com/latihan-ui-kit
 - Tonton video-nya sampai selesai
 
 #### DEADLINE
-- 5 May 2023
+- 4 May 2023
 
 #### HADIAH
 - 1 Orang dengan UI KIT Terbaik mendapatkan IDR 200.000,-
