@@ -21,6 +21,13 @@ https://tinyurl.com/latihan-ui-kit
 - Gunakan snippet "reuseable_"
 - Tonton video-nya sampai selesai
 
+** Deadline **
+- 5 May 2023
+
+** Hadiah **
+- 1 Orang dengan UI KIT Terbaik mendapatkan IDR 200.000,-
+
+
 Requirements:
 ```
 Button
