@@ -12,10 +12,14 @@ https://www.youtube.com/watch?v=QP_ZHijGGv0
   "Anthony Dev Kit"
 - Pastikan sudah sesuai requirements di bawah
 - Ingat! Tampilkan semua Widget-nya dalam 1 halaman saja.
+- Buatlah desain yang menarik, cari referensi desainnya di Google
 - Upload ke Github
 - Isi Formulir:
 https://tinyurl.com/latihan-ui-kit
 
+** TIPS **
+- Gunakan snippet "reuseable_"
+- Tonton video-nya sampai selesai
 
 Requirements:
 ```
